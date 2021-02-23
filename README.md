@@ -4,4 +4,4 @@ Thanks to the proliferation of smart devices, such as smartphones and wearables,
 
 This repository contains two example Python notebooks with the pre-processing of the New York City Taxi Dataset of 2013 and it's usage with TensorFlow Federated to buid a Human Mobility Model for the Next-Place prediction task.
 
-More insights and a detailed walkthrough of almost the entire thesis work can be found at: https://www.notion.so/alexcaselli/Diary-29a9d7f4b25c4e44a38e4e64f5126d63 
+More insights and a detailed walkthrough of almost the entire thesis work can be found at: https://www.notion.so/alexcaselli/Diary-29a9d7f4b25c4e44a38e4e64f5126d63
